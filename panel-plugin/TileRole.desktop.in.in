@@ -1,0 +1,7 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+_Name=TileRole
+_Comment=TileRole plugin for the Xfce panel
+Icon=xfce4-TileRole-plugin
+X-XFCE-Exec=@libexecdir@/xfce4/panel-plugins/xfce4-TileRole-plugin
